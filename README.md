@@ -16,3 +16,5 @@
 + edu.zju.cst.mapper包下面包含mapper代理实现方式代码
 + config/SqlMapConfig.xml 是dao方式开发对应的核心配置文件
 + config/MapperConfig.xml 是mapper方式开发对应的核心配置文件
+
+更新
